@@ -21,7 +21,7 @@ Therefore, it is recommended to switch to version (eaa0b79). This can be done as
 cd pyEIT
 git checkout eaa0b79
 ```
-- Download data and executables from this [link](https://drive.google.com/drive/folders/1gR2b_CHBRYhKYtxNeAH1VXY6V5nNn8dT?usp=sharing)
+- Download `data` and `exe` folders from this [link](https://drive.google.com/drive/folders/1gR2b_CHBRYhKYtxNeAH1VXY6V5nNn8dT?usp=sharing) and place them at the same level as scripts and utils
 
 - Install requirements 
   - Install [python](https://www.python.org/downloads/) (This code is tested with python 3.8) 
