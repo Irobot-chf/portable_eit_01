@@ -44,8 +44,8 @@ Run `scripts/forced_breathing_processing.py`
 
 Run `scripts/guided_breathing_different_depths_processing.py`
 
-![demo_fb](doc/images/dd_01.png) 
-![demo_fb](doc/images/dd_03.png)
+![demo_fb](doc/images/DD_01.png) 
+![demo_fb](doc/images/DD_03.png)
 
 
 #### COVID and healthy subjects
