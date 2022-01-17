@@ -1,0 +1,8 @@
+/****************************************************************************
+ * Copyright (C) 2019-2022 Gense Technologies Limited <info@gense.tech>
+ * 
+ * This file is part of the project portable_eit_01.
+ * 
+ * portable_eit_01 can not be copied and/or distributed without the express
+ * permission of Gense Technologies Limited
+ ***************************************************************************/
